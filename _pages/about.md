@@ -11,7 +11,7 @@ I am an AI researcher specializing in natural language processing and large lang
 
 Current Research Interests
 ======
-- Large Language Reasoning
+- Large Language Model Reasoning
 - Retrieval- and Memory- Augmented Generation
 
 
