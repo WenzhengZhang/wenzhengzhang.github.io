@@ -7,17 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD candidate at Rutgers University, where I am fortunate to be advised by [Prof. Karl Stratos](http://karlstratos.com/). I received my M.S. in Computer Science from Rutgers in Spring 2021, and prior to that, I earned a B.S. in Applied Physics from the University of Science and Technology of China in 2019.  
+I am an AI researcher specializing in natural language processing and large language models. I received my PhD in Computer Science from Rutgers University in October 2025, where I was fortunate to be advised by [Prof. Karl Stratos](http://karlstratos.com/). I previously earned an M.S. in Computer Science from Rutgers University in 2021 and a B.S. in Applied Physics from the University of Science and Technology of China in 2019.  
 
-Research Interests
+Current Research Interests
 ======
-- Retrieval-Augmented Generation
-- Entity-Centric Language Understanding 
+- Large Language Reasoning
+- Retrieval- and Memory- Augmented Generation
 
-I am also open to exploring new research directions and have recently become particularly interested in the reasoning capabilities of large language models (LLMs). 
 
 Publications
 ======
+- [ReNCE: Learning to Reason by Noise Contrastive Estimation](https://arxiv.org/pdf/2601.22432)<br>
+**Wenzheng Zhang**, Karl Stratos. <br>
+Preprint 2026 (In Submission).
+
 - [ImpRAG: Retrieval-Augmented Generation with Implicit Queries](https://arxiv.org/pdf/2506.02279)<br>
 **Wenzheng Zhang**, Xi Victoria Lin, Karl Stratos, Wen-tau Yih, Mingda Chen. <br>
 Findings of EMNLP 2025.
@@ -41,9 +44,11 @@ NAACL 2021.[[code](https://github.com/WenzhengZhang/hard-nce-el)]
 
 Experiences
 ======
+- Research Intern at Meta FAIR, May 2024 -- Dec 2024<br>
+Worked with [Dr. Mingda Chen](https://mingdachen.github.io/), [Dr. Scott Yih](https://scottyih.org/) and [Dr. Victoria Lin](https://victorialin.net/) on query-free RAG.
+
 - Research Intern at Microsoft, Jun 2022 -- Sep 2022 <br>
 Worked with [Prof. Chenyan Xiong](https://scholar.google.com/citations?user=E9BaEBYAAAAJ&hl=en) and [Arnold Overwijk](https://scholar.google.com/citations?user=zKiMGDgAAAAJ&hl=en) on multi-task retrieval.
 
-- Research Intern at Meta FAIR, May 2024 -- Dec 2024<br>
-Worked with [Dr. Mingda Chen](https://mingdachen.github.io/), [Dr. Scott Yih](https://scottyih.org/) and [Dr. Victoria Lin](https://victorialin.net/) on query-free RAG.
+
 
